@@ -4,7 +4,7 @@
 
 # Tecnologias Utilizadas
 
--HTML5
--CSS3
--JavaScript (plugins: SimpleAnime, SimpleSlide, SimpleForm)
+* HTML5
+* CSS3
+* JavaScript (plugins: SimpleAnime, SimpleSlide, SimpleForm)
 
