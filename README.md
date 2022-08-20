@@ -17,4 +17,6 @@ Trata-se de um projeto Front-End feito para a empresa fictícia Bikcraft, com o 
 - CSS3
 - JavaScript 
     - (plugins: SimpleAnime, SimpleSlide, SimpleForm)
+- PHP
+    - (PHPMailer / SendGrid para envio de e-mails)
 
